@@ -1,4 +1,6 @@
+![](./Images/logo-RnD-web.png)
 # Vonage Careers in Israel
+
 #### The Secret Formula
 While we are a corporation with offices worldwide, more than 100 US patents, and a history of being an industry disruptor, Vonage still retains the energy and excitement of a small start up.
 
