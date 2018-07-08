@@ -1,4 +1,4 @@
-![Vonage Logo](./Images/logo-RnD-web.png)
+![Vonage Logo](/Images/logo-RnD-web.png)
 # Vonage Careers in Israel
 
 #### The Secret Formula
@@ -14,6 +14,7 @@ Since we work in an ever-evolving industry, our mission every day is to cultivat
 ## Open Positions
 * [Senior Software Engineer](./SeniorSoftwareEngineer/README.md)
 * [Senior Backend Engineer](./SeniorBackendEngineer/README.md)
+* [Front-End Developer](./FrontEndDeveloper/README.md)
 
 
 ## About Us
