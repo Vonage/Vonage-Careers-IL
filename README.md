@@ -1,13 +1,13 @@
 # Careers-IL
 
 #### The Secret Formula
-```While we are a corporation with offices worldwide, more than 100 US patents, and a history of being an industry disruptor, Vonage still retains the energy and excitement of a small start up.```
+>While we are a corporation with offices worldwide, more than 100 US patents, and a history of being an industry disruptor, Vonage still retains the energy and excitement of a small start up.
 
 #### Employee First Culture
-```This means our employees are recognized and rewarded for hard work. The atmosphere in the office is friendly and inviting, and the teams tight-knit.```
+>This means our employees are recognized and rewarded for hard work. The atmosphere in the office is friendly and inviting, and the teams tight-knit.
 
 #### Innovating Relentlessly
-```Since we work in an ever-evolving industry, our mission every day is to cultivate new ideas and to find solutions that create more value for our customers.```
+>Since we work in an ever-evolving industry, our mission every day is to cultivate new ideas and to find solutions that create more value for our customers.
 
 
 ## About Us
