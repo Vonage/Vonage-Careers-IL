@@ -1,4 +1,4 @@
-![](./Images/logo-RnD-web.png)
+![Vonage Logo](./Images/logo-RnD-web.png)
 # Vonage Careers in Israel
 
 #### The Secret Formula
