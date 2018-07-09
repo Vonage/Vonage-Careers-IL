@@ -15,6 +15,7 @@ Since we work in an ever-evolving industry, our mission every day is to cultivat
 * [Senior Software Engineer](./SeniorSoftwareEngineer/README.md)
 * [Senior Backend Engineer](./SeniorBackendEngineer/README.md)
 * [Front-End Developer](./FrontEndDeveloper/README.md)
+* [Machine Learning Expert](.MachineLearningExpert/README.md)
 
 
 ## About Us
