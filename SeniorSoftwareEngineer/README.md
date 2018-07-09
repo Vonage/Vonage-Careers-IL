@@ -1,3 +1,5 @@
+![Vonage Logo](/Images/logo-RnD-web.png)
+
 # Senior Software Engineer
 As a Vonage software engineer, you will build cloud-based unified communication platforms and specialize in end-to-end development of real-time mobile applications using the latest technologies. You will be the architect, designer, and coder of your project, and take part in developing next-generation technologies that change how people communicate.
 
