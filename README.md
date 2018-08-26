@@ -13,9 +13,10 @@ Since we work in an ever-evolving industry, our mission every day is to cultivat
 
 ## Open Positions
 ### Development
-* [Senior Software Engineer](/Positions/SeniorSoftwareEngineer.md)
-* [Senior Backend Engineer](/Positions/SeniorBackendEngineer.md)
+* [Junior Mobile Developer](/Positions/JuniorMobileDeveloper.md)
 * [Front-End Developer](/Positions/FrontEndDeveloper.md)
+* [Senior Backend Engineer](/Positions/SeniorBackendEngineer.md)
+* [Senior Software Engineer](/Positions/SeniorSoftwareEngineer.md)
 * [Backend Engineering Manager](/Positions/BackendEngineeringManager.md)
 
 ### Experts
