@@ -34,7 +34,7 @@ At Vonage we all come to work every day because we want to solve the biggest pro
 
 Our main products are cloud communication solutions for SMBs and innovative communication APIs for software companies and developers. Our product innovations change the way businesses operate and serve their customers.
 
-Vonage Essentials mobile and desktop apps allow business owners to stay in-touch with the people that matter to their businesses, wherever they are. The Vonage API Platform enables enterprises to reimagine their digital customer experiences by providing them with the tools they need to easily communicate with customers in real-time through text messaging, chat, social media voice and video.
+The Vonage Business Cloud mobile and desktop apps allow business owners to stay in-touch with the people that matter to their businesses, wherever they are. The Vonage API Platform enables enterprises to reimagine their digital customer experiences by providing them with the tools they need to easily communicate with customers in real-time through text messaging, chat, social media voice and video.
 
 High-volume communication companies such as Alibaba, Airbnb, Line and UBER send millions of messages per month using Vonage APIs.
 
