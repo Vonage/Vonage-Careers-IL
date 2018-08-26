@@ -29,7 +29,7 @@ Vonage Essentials mobile and desktop apps allow business owners to stay in-touch
 
 High-volume communication companies such as Alibaba, Airbnb, Line and UBER send millions of messages per month using Vonage APIs.
 
-Working at Vonage’s R&D Center in Raanana (just across from Raanana Park) provides the best of both worlds: the excitement of a young start-up environment coupled with solid US corporate-backed resources.
+Working at Vonage’s R&D Center in Tel Aviv (Alon 2 tower) provides the best of both worlds: the excitement of a young start-up environment coupled with solid US corporate-backed resources.
 
 If you’re smart, passionate and have a vision for a better future, come join us.
 
