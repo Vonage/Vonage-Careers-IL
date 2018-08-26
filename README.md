@@ -24,6 +24,9 @@ Since we work in an ever-evolving industry, our mission every day is to cultivat
 * [Application Security Engineer](/Positions/ApplicationSecurityEngineer.md)
 * [Network Engineer](/Positions/NetworkEngineer.md)
 
+#### QA
+* [QA Team Leader](/Positions/QATeamLeader.md)
+
 
 ## About Us
 
