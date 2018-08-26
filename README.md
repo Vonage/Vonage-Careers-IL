@@ -12,15 +12,16 @@ Since we work in an ever-evolving industry, our mission every day is to cultivat
 
 
 ## Open Positions
-### Development
+#### Development
 * [Junior Mobile Developer](/Positions/JuniorMobileDeveloper.md)
 * [Front-End Developer](/Positions/FrontEndDeveloper.md)
 * [Senior Backend Engineer](/Positions/SeniorBackendEngineer.md)
 * [Senior Software Engineer](/Positions/SeniorSoftwareEngineer.md)
 * [Backend Engineering Manager](/Positions/BackendEngineeringManager.md)
 
-### Experts
+#### Experts
 * [Machine Learning Expert](/Positions/MachineLearningExpert.md)
+* [Application Security Engineer](/Positions/ApplicationSecurityEngineer.md)
 * [Network Engineer](/Positions/NetworkEngineer.md)
 
 
