@@ -25,6 +25,8 @@ Since we work in an ever-evolving industry, our mission every day is to cultivat
 * [Network Engineer](/Positions/NetworkEngineer.md)
 
 #### QA
+* [Manual QA](/Positions/ManualQA.md)
+* [Automation Engineer](/Positions/AutomationEngineer.md)
 * [QA Team Leader](/Positions/QATeamLeader.md)
 
 
