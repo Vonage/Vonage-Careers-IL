@@ -23,6 +23,7 @@ Since we work in an ever-evolving industry, our mission every day is to cultivat
 * [Machine Learning Expert](/Positions/MachineLearningExpert.md)
 * [Application Security Engineer](/Positions/ApplicationSecurityEngineer.md)
 * [Network Engineer](/Positions/NetworkEngineer.md)
+* [DevOps Engineer](/Positions/DevOpsEngineer.md)
 
 #### QA
 * [Manual QA](/Positions/ManualQA.md)
