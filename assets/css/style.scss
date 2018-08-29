@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-image: url("/Images/bg_darkened-2.png");
+    a {
+        color: #525252;
+        border-color: rgba(255, 255, 255, 0.7);
+    }
+    .project-tagline {
+        opacity: 0.8;
+    }
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #3a4147;
+}
