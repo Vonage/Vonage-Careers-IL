@@ -1,4 +1,4 @@
-![Vonage Logo](/Images/logo-RnD-web.png)
+![Vonage Logo](../Images/logo-RnD-web.png)
 
 # Senior Backend Engineer
 As a Vonage software engineer, you will build the infrastructure and business logic for next generation unified communication platforms. 

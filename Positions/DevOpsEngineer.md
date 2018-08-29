@@ -1,4 +1,4 @@
-![Vonage Logo](/Images/logo-RnD-web.png)
+![Vonage Logo](../Images/logo-RnD-web.png)
 
 # DevOps Engineer
 An opportunity to join our innovative team of experts that delivers Unified communication solutions to more than a hundred thousand businesses in the US.

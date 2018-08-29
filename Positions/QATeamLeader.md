@@ -1,4 +1,4 @@
-![Vonage Logo](/Images/logo-RnD-web.png)
+![Vonage Logo](../Images/logo-RnD-web.png)
 
 # QA Team Leader
 

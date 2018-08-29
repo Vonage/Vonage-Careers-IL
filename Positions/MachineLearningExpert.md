@@ -1,4 +1,4 @@
-![Vonage Logo](/Images/logo-RnD-web.png)
+![Vonage Logo](../Images/logo-RnD-web.png)
 
 # Machine Learning Expert
 Vonage’s R&D Center is building a new machine learning and data science team and is looking for individuals skilled in both research and code to take us to the next level.

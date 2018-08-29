@@ -1,4 +1,4 @@
-![Vonage Logo](/Images/logo-RnD-web.png)
+![Vonage Logo](../Images/logo-RnD-web.png)
 
 # Network Engineer
 As a Vonage Network Engineer, you will be responsible for implementing, maintaining, supporting, developing and, designing communication networks.

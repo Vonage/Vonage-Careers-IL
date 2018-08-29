@@ -1,4 +1,4 @@
-![Vonage Logo](/Images/logo-RnD-web.png)
+![Vonage Logo](../Images/logo-RnD-web.png)
 
 # Front-End Developer
 Vonage is looking for outstanding front-end developers to join our winning team. Be responsible for developing the company next-generation communication platform, with cutting edge technologies.
